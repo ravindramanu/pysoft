@@ -3,7 +3,7 @@ import sys # Import the system module to get arguments from the command line win
 import os  # Import the os module to do some file path work
 
 # Let us make some useful variables for the program
-noOfArguments=len(sys.argv)                         # No of arguments entered
+noOfArguments=len(sys.argv)                    # No of arguments entered
 optionlist=['-h', '-a', '-f=', '-t=', '-r=']   # List of allowed options
 
 # Write down the help section. Allows us to get a feel of how the tool would look
