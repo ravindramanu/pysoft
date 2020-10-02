@@ -1,4 +1,8 @@
 #!/usr/bin/python3
+# Author: Ravindra, Manu
+# SOFTWARE IS UNLICENSED AND FREE FOR ALL
+# THE ONUS OF RESULTING CONSEQUENCES OF USING THIS TOOL IS ON THE USER AND NOT THE AUTHOR IN ANY WAY POSSIBLE. PLEASE USE YOUR BEST JUDGEMENT.
+
 import sys # Import the system module to get arguments from the command line window
 import os  # Import the os module to do some file path work
 
